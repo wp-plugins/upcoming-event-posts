@@ -1,0 +1,43 @@
+@CHARSET "UTF-8";
+
+.upcomingEvents
+{
+border:solid black 1px;
+background-color:#EEEEEE;
+font-size: 1em;
+line-height: 1em;
+padding:5px;
+}
+
+.upcomingEvents li
+{
+margin:0px;
+}
+
+.upcomingEventsTitleBox
+{
+position:relative;
+margin:0px;
+padding:10px;
+background-color:#FFFF88;
+font-weight:bold;
+font-size:12pt;
+text-align:center;
+border:solid black 1px;
+}
+
+.upcomingEventsTitleBox p
+{
+margin:0px;
+}
+
+.upcomingEventTime
+{
+font-weight:bold;
+font-size:10pt;
+}
+
+.upcomingEventDesc
+{
+font-size:8pt;
+}
